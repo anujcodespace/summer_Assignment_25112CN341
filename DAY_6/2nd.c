@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int n, r, a=0, base = 1;
-    printf("enter the binary number:\n");
+    printf("enter the Binary number:\n");
     scanf("%d", &n);
     while(n>0){
         r = n%10;
