@@ -12,6 +12,6 @@ int main() {
         }
     }
     result[j] = '\0';
-    printf("String without spaces: %s", result);
+    printf("your String without spaces: %s", result);
     return 0;
 }
